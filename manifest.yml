@@ -1,0 +1,15 @@
+version: '1.0'
+plugin: {  }
+sys:
+  -
+    name: mercury
+    version:
+      - '1.0'
+php:
+  - '7.2'
+author: Claes Östlund
+links:
+  - 'https://github.com/aboodman/dom-drag/'
+type:
+  - javascript
+description: 'Javascript by Aaron Boodman to help drag and drop. Add a referens to \plugin\aboodman\dom-drag\dom-drag.js via widget.'
